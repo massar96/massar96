@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - 🎓 Currently earning my **B.S. in Information Technology** (4.0 GPA, President’s List) at **Grand Canyon University**  
 - 💡 Nearly a decade of **healthcare experience** as an Inpatient & Retail Pharmacy Technician  
-- 🏥 Transitioning into **Epic Application Analyst (Radiant & Cupid)** roles  
+- 🏥 Transitioning into Epic Application Analyst roles  
 - 🔐 Certified in **Google Cybersecurity**, **QA Engineering**, and working toward **CompTIA Security+**  
 - 🌐 Passionate about **Epic training, healthcare workflows, and IT systems integration**
 
